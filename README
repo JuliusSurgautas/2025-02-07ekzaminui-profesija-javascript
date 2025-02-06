@@ -3,3 +3,16 @@ viskas pasileidzia nuo pagrindinio failo.(viena karta)
 2.npm run start.
 (Mongo DB)( gmail:jcezeris@gmail.com paswordar: bestas321)
 (Klusterio)(username:jcezeris ) (paswordas:Pandorabestas123)
+
+
+
+
+
+1:Setup .env file
+MONGO_URI=your_mongo_uri
+PORT=5000
+2:Run this app locally
+npm run build
+3:Start the app
+npm run start
+I'll see you in the next one! 🚀
